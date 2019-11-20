@@ -1,3 +1,3 @@
 # FirstChromeExtension
 
-A simple chrome extension to change the background color of any webpage.
+Simple chrome extension to change the background color of any webpage from a single click.
